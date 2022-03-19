@@ -28,7 +28,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<properties>
-  <sonar.organization>mylandmarktechs</sonar.organization>
+  <sonar.organization>Boye69</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
 	</properties>
@@ -100,7 +100,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>mylandmark Technologies Releases Nexus Repository</name>
 	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-release/</url>
 	    </repository>
 	    
