@@ -30,10 +30,8 @@
 		<properties>
   <sonar.organization>Boye69</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
-	</properties>
-
-	<dependencies>
+                           </properties>
+		<dependencies>
 		
 		<dependency>
 			<groupId>org.json</groupId>
